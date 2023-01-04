@@ -9,6 +9,7 @@ console.log("EXERCISE 1:\n==========\n");
 // YOUR CODE HERE
 let a = 20; 
 let b = 4; 
+let add = a + b; 
 let minus = a - b; 
 let multiply = a * b; 
 let dividing = a / b; 
@@ -49,6 +50,12 @@ val === str3;
 false; 
 
 !isAwake; 
+true; 
+
+"eleven" == str4 && val >= str3; 
+false; 
+
+!isAwake || isAwake; 
 true; 
 
 0 == false; 
